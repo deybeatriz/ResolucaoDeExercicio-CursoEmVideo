@@ -1,0 +1,41 @@
+# Resolução de Exercícios Python - Curso em Vídeo
+
+### Curso de Python 3 
+
+O curso de Python 3, ministrado pelo Professor Gustavo  Guanabara, tem uma temática divertida de vídeo-game para motivar seus alunos, é dividido em três módulos (mundos, como são chamados) para facilitar o estudo. São eles: 
+* Fundamentos; 
+* Estruturas de Controle; 
+* Estruturas Compostas
+
+Segue link para acesso à plataforma:
+* [Canal no Youtube](https://www.youtube.com/user/cursosemvideo) 
+* [Site](https://www.cursoemvideo.com/)
+
+<table>
+  <tr>
+    <td>
+       <a href='https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLpwygc0AuGOXJ18fPwPNIeXvzKid_AUkm'><img src='https://user-images.githubusercontent.com/51168329/156937928-6a9c5a75-1c7c-4318-8933-f2e5917ae940.png'></a>
+    </td>
+    <td>
+      <a href='https://www.youtube.com/watch?v=nJkVHusJp6E&list=PLCKfaoRJSWVtmyzLfMsW7VYGAaVVRJh3w'><img src='https://user-images.githubusercontent.com/51168329/156937940-62fd36a9-b457-4f4d-a06b-0dd067b4b81b.png'></a>
+    </td>
+    <td>
+      <a href='https://www.youtube.com/watch?v=0LB3FSfjvao&list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH'><img src='https://user-images.githubusercontent.com/51168329/156937949-514cba8f-e23f-45ee-8e74-691b01036a85.png'></a>
+    </td>
+  </tr>
+</table>
+
+### Exercícios
+
+Neste reporitório contém os exercícios feitos da minha forma, como achei melhor no momento.
+<br><br>
+<table>
+  <tr>
+    <td>
+      <a href='https://www.youtube.com/watch?v=nIHq1MtJaKs&list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-'><img src='https://user-images.githubusercontent.com/51168329/156938222-104f3366-b2a7-4f9a-a8dc-685fee2038e7.png'></a>
+    </td>
+  </tr>
+</table>
+
+<br>
+Observaçãp: O projeto ainda está em andamento
